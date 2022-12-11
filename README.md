@@ -1,0 +1,1 @@
+# Projet7--YOLOX_Stanford_dogs-dataset
