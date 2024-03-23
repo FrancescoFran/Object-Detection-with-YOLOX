@@ -24,7 +24,8 @@
 <h2 align="left">Installation</h2>
 <p align="left">
 <ol>
-  <li><b>Install Dependencies:</b>  Once the virtual environment is activated, install the project dependencies from the <b>'requirements.txt'</b> file:</li>
+    <li>Install <b>torch, torchvision and torchaudio</b></li>
+    <li><b>Install Dependencies:</b>  Once the virtual environment is activated, install the project dependencies from the <b>'requirements.txt'</b> file:</li>
     <p align="left">
         <img width="850" src="https://github.com/FrancescoFran/Object-Detection-with-YOLOX/assets/96301982/a3df980e-c425-403f-9b6b-180f35703cce">
     </p>
