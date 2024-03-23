@@ -17,7 +17,7 @@
   <li><b>Python Installation:</b> If you don't have Python installed, you can download and install it from <a href="https://www.python.org/">python.org</a>.</li>
   <li><b>Virtual Environment (Optional):</b> While not strictly necessary, it's recommended to use a virtual environment to manage dependencies. To create a virtual environment, follow these steps:</li>
 <p align="center">
-    <img width="200" src=" https://github.com/FrancescoFran/Object-Detection-with-YOLOX/assets/96301982/52b6375e-072e-4fc4-9d1e-6a20a5e596bb">
+    <img width="200" src="https://github.com/FrancescoFran/Object-Detection-with-YOLOX/assets/96301982/539428aa-f397-4a5a-8e1f-519ac9fecfed">
 </p>
    
 </ol>
