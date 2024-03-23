@@ -4,7 +4,7 @@
 <h1 align="center">Object-Detection-with-YOLOX</h1>
 <h2 align="left">Basic Overview</h2>
 
-| <img width="400" src="https://github.com/FrancescoFran/Object-Detection-with-YOLOX/assets/96301982/0f81a76d-7a77-4ff0-a607-f0c66db723a3">  | <img width="400" src="(https://github.com/FrancescoFran/Object-Detection-with-YOLOX/assets/96301982/e9b1a723-5a18-4ff8-a78f-1e87146ed09b"> |
+| <img width="590" src="https://github.com/FrancescoFran/Object-Detection-with-YOLOX/assets/96301982/0f81a76d-7a77-4ff0-a607-f0c66db723a3">  | <img width="200" src="https://github.com/FrancescoFran/Object-Detection-with-YOLOX/assets/96301982/e9b1a723-5a18-4ff8-a78f-1e87146ed09b"> |
 | ------------- | ------------- |
 
 
@@ -19,7 +19,7 @@
 
 
 <p align="justify">
-    The objective of the project is the creation of an application based on models ResNet50 and YOLOX for the classification abd object detection of 15 different dog races. YOLOX model is trained with a subset of 15 classes of Stanford Dogs dataset.
+    The objective of the project is the creation of an application based on models ResNet50 and YOLOX for the classification and object detection of 15 different dog races. YOLOX model is trained with a subset of 15 classes of Stanford Dogs dataset.
 </p>
 <h2 align="left">Prerequisites</h2>
 <ul>
