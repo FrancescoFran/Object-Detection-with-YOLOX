@@ -7,7 +7,11 @@
 | <img width="800" src="https://github.com/FrancescoFran/Object-Detection-with-YOLOX/assets/96301982/0f81a76d-7a77-4ff0-a607-f0c66db723a3">  | <img width="270" src="https://github.com/FrancescoFran/Object-Detection-with-YOLOX/assets/96301982/e9b1a723-5a18-4ff8-a78f-1e87146ed09b"> |
 | ------------- | ------------- |
 
-<video src="https://github.com/FrancescoFran/Object-Detection-with-YOLOX/assets/96301982/3343216d-bebb-4f8c-a787-401140fc9c70" controls="controls" style="max-width: 100px;"></video> 
+<video src="https://github.com/FrancescoFran/Object-Detection-with-YOLOX/assets/96301982/cd8ac7dc-5508-4d84-8884-a67d80b1db5d" controls="controls" style="max-width: 100px;"></video> 
+
+
+
+
 
 
 
