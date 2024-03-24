@@ -1,0 +1,4 @@
+D:/Github_repositories/Object-Detection-with-YOLOX/ResNet50_opt_model/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+D:/Github_repositories/Object-Detection-with-YOLOX/best_ckpt_yolox_m.pth filter=lfs diff=lfs merge=lfs -text
+ResNet50_opt_model/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+best_ckpt_yolox_m.pth filter=lfs diff=lfs merge=lfs -text
